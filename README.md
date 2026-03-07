@@ -1,26 +1,39 @@
 # 👋 Hi, I'm Masyud Hossain
 
-![Profile Views](https://komarev.com/ghpvc/?username=masyud&label=Profile%20Views&color=green&style=for-the-badge)
+Java Backend Developer focused on building secure and scalable backend systems.
 
-## 🚀 About Me
-- Java Backend Developer (Spring Boot)
-- Learning MERN Backend (Node.js, Express, MongoDB)
-- DevOps Practitioner (Linux, Git, CI/CD, Deployment)
-- Focused on clean backend logic & scalable systems
+##  About Me
+- Backend Developer specializing in **Java & Spring Boot**
+- Building **REST APIs with authentication and role-based access**
+- Learning **MERN Backend (Node.js, Express, MongoDB)**
+- Exploring **DevOps practices: Linux, Git, Docker, CI/CD**
 
-## 🛠️ Tech Stack
-- **Backend:** Java, Spring Boot, Node.js, Express
-- **Database:** MySQL, MongoDB
-- **DevOps:** Linux, Git, GitHub, Docker (learning), CI/CD
-- **Frontend (basic):** HTML, CSS, JavaScript, React
+## 🛠 Tech Stack
 
-## 📌 Current Focus
-- Advanced Spring Security (JWT, RBAC)
-- Production-grade REST APIs
+**Backend**
+- Java
+- Spring Boot
+- Node.js
+- Express
+
+**Database**
+- MySQL
+- MongoDB
+- Postgres
+
+**DevOps & Tools**
+- Linux
+- Git & GitHub
+- Docker (learning)
+- CI/CD
+
+## 🎯 Current Focus
+- Spring Security (JWT, RBAC)
+- Production-ready REST APIs
 - MERN backend architecture
-- DevOps automation & deployments
+- DevOps automation & deployment
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/masyudhossain
-- Linkedin: https://www.linkedin.com/in/masyud-hossain/
-- Mail: hossainmasyud01@gmail.com
+- GitHub: https://github.com/masyudhossain  
+- LinkedIn: https://www.linkedin.com/in/masyud-hossain/  
+- Email: masyud.hossain2001@gmail.com
