@@ -11,21 +11,13 @@ Java Backend Developer focused on building secure and scalable backend systems.
 ## 🛠 Tech Stack
 
 **Backend**
-- Java
-- Spring Boot
-- Node.js
-- Express
+- Java, Spring Boot, Node.js, Express
 
 **Database**
-- MySQL
-- MongoDB
-- Postgres
+- MySQL, MongoDB, Postgres
 
 **DevOps & Tools**
-- Linux
-- Git & GitHub
-- Docker (learning)
-- CI/CD
+- Linux, Git & GitHub, Docker (learning)
 
 ## 🎯 Current Focus
 - Spring Security (JWT, RBAC)
