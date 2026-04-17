@@ -10,8 +10,8 @@ Java Backend Developer focused on building secure and scalable backend systems.
 
 ## 🛠 Tech Stack
 
-**Backend**
-- Java, Spring Boot, Node.js, Express
+**Backend Framework**
+- Spring Boot, Node.js, Express
 
 **Database**
 - MySQL, MongoDB, Postgres
